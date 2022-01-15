@@ -1,0 +1,26 @@
+{
+  "name":"E-ration",
+  "short_name":"E-ration E-ration",
+  "theme_color": "#28166f",
+  "background_color":"#f4f3ef",
+  "display": "standalone",
+  "orientation": "portrait",
+  "prefer_related_applications": false,
+  "Scope": ".",
+  "start_url":"index.php",
+  "icons": [
+    {
+      "src": "icon/ration_72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "icon/ration_144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+   
+   
+]  
+
+}
